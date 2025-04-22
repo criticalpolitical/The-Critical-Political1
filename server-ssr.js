@@ -1,1 +1,1 @@
-// Express SSR server placeholder
+// Placeholder for server-ssr.js
