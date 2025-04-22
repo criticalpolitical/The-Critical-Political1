@@ -1,0 +1,1 @@
+// Politician search bar component placeholder

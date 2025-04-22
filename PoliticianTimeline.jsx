@@ -1,0 +1,1 @@
+// Politician timeline component placeholder
